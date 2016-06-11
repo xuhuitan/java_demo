@@ -3,7 +3,7 @@ package com.xuhui.test;
 public class Hello {
 
 	public static void main(String[] args) {
-		System.out.println("hello boy2 aagc!");
-		System.out.println("hello boy2 aagc5522!");
+		System.out.println("hello boy3 aagc!");
+		System.out.println("hello boy3 aagc5522!");
 	}
 }
