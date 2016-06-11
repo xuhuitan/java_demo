@@ -4,6 +4,6 @@ public class Hello {
 
 	public static void main(String[] args) {
 		System.out.println("hello boy aagc!");
-		System.out.println("hello boy aagc2!");
+		System.out.println("hello boy aagc552!");
 	}
 }
